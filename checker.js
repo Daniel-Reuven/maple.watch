@@ -1130,6 +1130,16 @@ var servers = {
                 isMapleStoryGameServer: true,
                 rel: "Bera"
             },
+	                   {
+                icon: "Bera.png",
+                name: "Channel 21", // Verified as of 2023-06-22
+                address: "44.234.162.131",
+                port: "8585",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Bera"
+            },
 			{
                 icon: "Bera.png",
                 name: "CPQ/DIPQ/EvoLab 1", // Verified as of 2020-06-10
