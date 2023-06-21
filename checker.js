@@ -1140,6 +1140,96 @@ var servers = {
                 isMapleStoryGameServer: true,
                 rel: "Bera"
             },
+            {
+                icon: "Bera.png",
+                name: "Channel 22", // Verified as of 2023-06-22
+                address: "44.234.161.98",
+                port: "8585",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Bera"
+            },
+            {
+                icon: "Bera.png",
+                name: "Channel 23", // Verified as of 2023-06-22
+                address: "44.234.161.51",
+                port: "8585",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Bera"
+            },
+            {
+                icon: "Bera.png",
+                name: "Channel 24", // Verified as of 2023-06-22
+                address: "44.234.161.75",
+                port: "8585",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Bera"
+            },
+            {
+                icon: "Bera.png",
+                name: "Channel 25", // Verified as of 2023-06-22
+                address: "44.234.162.103",
+                port: "8585",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Bera"
+            },
+            {
+                icon: "Bera.png",
+                name: "Channel 26", // Verified as of 2023-06-22
+                address: "44.234.160.97",
+                port: "8585",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Bera"
+            },
+            {
+                icon: "Bera.png",
+                name: "Channel 27", // Verified as of 2023-06-22
+                address: "44.234.161.91",
+                port: "8585",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Bera"
+            },
+            {
+                icon: "Bera.png",
+                name: "Channel 28", // Verified as of 2023-06-22
+                address: "44.234.161.240",
+                port: "8585",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Bera"
+            },
+            {
+                icon: "Bera.png",
+                name: "Channel 29", // Verified as of 2023-06-22
+                address: "44.234.160.81",
+                port: "8585",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Bera"
+            },
+            {
+                icon: "Bera.png",
+                name: "Channel 30", // Verified as of 2023-06-22
+                address: "44.234.162.143",
+                port: "8585",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Bera"
+            },
 			{
                 icon: "Bera.png",
                 name: "CPQ/DIPQ/EvoLab 1", // Verified as of 2020-06-10
